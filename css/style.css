@@ -49,9 +49,7 @@ li {
     border-radius: 7px;
     box-shadow: 0 4px 8px black;
 }
-img {
-    width: 300px;
-}
+
 a:hover  {
     color: white;
     transition: color 0.5s;
@@ -147,3 +145,8 @@ a {
     bottom: 0;
  }
 
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
